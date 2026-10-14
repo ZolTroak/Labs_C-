@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>a1.txt b1.txt c1.txt</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArgumentsHistory>a1.txt b1.txt c1.txt|</LocalDebuggerCommandArgumentsHistory>
+  </PropertyGroup>
+</Project>
